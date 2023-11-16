@@ -1,0 +1,13 @@
+At first I realized that this project would be a good chance to prove my abilities in case I choose to apply for the game design and development masters degree. To prove my abilities I decided to go through all the slides from Game design and Advanced topics in game design courses and try to apply as many of the principles explained in them to the best of my ability and describe my thought process based on those insights in this document.
+
+The game idea came from recent experiences playing N64 goldeneye remake on the switch and the Sly games on ps3. 
+
+First day 16.11 started 21:00 ended 24:00, I decided to read Petri purhos Prototyping slides and Mikko Rautalahtis slides on narrative design.
+
+Based on Petris slides I decided to just prototype different puzzles for the game and for the other mechanics just go for old tried and tested ones instead of innovating too much on those.
+
+Based on Mikkos lectures I realized that narrative design is probably my greatest weakness. So I decided to make a game which is not too serious, mainly because I think that a serious type of game would have a higher chance of being boring based on my previous attempts at writing seriously. There is a high chance that the whole narrative will end up being boring, stupid or childish if the game is light hearted/humorous as well. To demonstrate my abilities I probably should focus on my strengths in the coding side, but I'll try narrative design for the learning experience.
+
+Next up I realized that I would most likely need to know how to do cutscenes if I wanted to do my any narrative related stuff so I looked into Unity cutscenes.
+
+Final problem of the day, I don't know how to make 3D models, so I decided to first search for assets if I can't find them I'll have to learn how to make them(hopefully I won't have to)
